@@ -2,7 +2,7 @@
   <strong><em>قال رسول الله صلى الله عليه وآله وسلم</em></strong>
 </p>
 
-<p align="center" style="font-size: 50px; font-weight: bold; background: linear-gradient(90deg, #43cea2, #185a9d); -webkit-background-clip: text; color: transparent; animation: pulse 2s infinite;">
+<p align="center" style="font-size: 100px; font-weight: bold; background: linear-gradient(90deg, #43cea2, #185a9d); -webkit-background-clip: text; color: transparent; animation: pulse 2s infinite;">
   <strong><em>“واللهُ في عَونِ العَبْدِ ما كان العَبْدُ في عَونِ أخيهِ”</em></strong>
 </p>
 
