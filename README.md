@@ -1,5 +1,6 @@
-<p align="center" style="background: linear-gradient(90deg, #fdfbfb, #ebedee); padding: 15px; border-radius: 10px;">
-  <strong><em>“واللهُ في عَونِ العَبْدِ ما كان العَبْدُ في عَونِ أخيهِ”</em></strong>  
+<p align="center" style="background: linear-gradient(90deg, #fdfbfb, #ebedee); padding: 15px; border-radius: 12px; font-size: 18px;">
+  <strong><em>قال رسول الله صلى الله عليه وآله وسلم</em></strong><br>
+  <strong><em>“واللهُ في عَونِ العَبْدِ ما كان العَبْدُ في عَونِ أخيهِ”</em></strong>
 </p>
 
 <p align="center">
