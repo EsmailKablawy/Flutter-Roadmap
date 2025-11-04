@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" width="600" alt="Flutter Roadmap Banner">
+</p>
+
+---
 # 🚀 Flutter Learning Roadmap
 
 A complete and free Arabic roadmap to become a Flutter Developer — step by step 💪  
