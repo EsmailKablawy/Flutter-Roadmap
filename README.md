@@ -42,6 +42,7 @@ A complete and free Arabic roadmap to become a Flutter Developer — step by ste
 - [UI Tutorial 2](https://youtu.be/eegl7of4g-o?si=1tG4h6U3F6rDWl7j)  
 - [UI Tutorial 3](https://youtu.be/zOQzu3BGSqo?si=_evWiI0QcX2mmXkE)  
 - [UI Tutorial 4](https://youtu.be/FMV8pbz0sN8?si=ueDN8Bq2OXbEAcpD)
+- [UI Tutorial 5](https://youtu.be/HQ_ytw58tC4?si=XL4QCnlgHyOhPmT1)
 
 ---
 
@@ -51,7 +52,25 @@ These tutorials are **essential** to take your skills to the next level 🚀
 
 🎯 **Recommended Videos:**  
 - [API Tutorial 1](https://youtu.be/rpT7vDbNM3M?si=lWnx6vDoPuXo_HSE)  
-- [API Tutorial 2](https://youtu.be/HQ_ytw58tC4?si=XL4QCnlgHyOhPmT1)
+- [API Tutorial 2](https://youtu.be/zj7qS6xxWAo?si=I3MJQ5_MN_tEeJTQ)
+- [API Tutorial 3](https://youtu.be/InKlD0VQOE0?si=e6Ucuxktwge9mPnY)
+- [API Tutorial 4](https://youtu.be/J4oFSx9yCX0?si=DJav4Omw1svcAcA-)
+- [API Tutorial 5](https://youtu.be/pujvJbq6va0?si=te-JcXGqiZnKoNot)
+- [API Tutorial 6](https://youtu.be/3rXj0zsYXys?si=fkrAvU8JsqKNEsGb)
+- [API Tutorial 7](https://youtu.be/uJOuOHfAv5Y?si=7cpH540T_OwgtdAA)
+- [API Tutorial 8](https://youtu.be/QxEGWJx_Vyo?si=_DcJZ033Z7RkQPpt)
+- [API Tutorial 9](https://youtu.be/nncy2ccjDLk?si=OiBxnDhnWI8ywUw-)
+- [API Tutorial 10](https://youtu.be/CdxsVdhqniU?si=oXlUPaFwv6VZWciI)
+- [API Tutorial 11](https://youtu.be/-_ZPy2Hk8FY?si=9D3skeN4Wn5IjZ2s)
+- [API Tutorial 12](https://youtu.be/Z4PVyueZb2M?si=g5jo0amcfhC6bmz6)
+- [API Tutorial 13](https://youtu.be/VKwZle8OOfY?si=Z052pRngwbKHmTJZ)
+- [API Tutorial 14](https://youtu.be/kbqLM-KlPdM?si=2qlfC6S6tvxfWPL0)
+- [API Tutorial 15](https://youtu.be/SiRF4SEKh3s?si=GULx1t6oXPbz0uLU)
+- [API Tutorial 16](https://youtu.be/OyYS92p3DFA?si=mWLonck9S_DWM4GV)
+- [API Tutorial 17](https://youtu.be/PQhRLxMbu58?si=IkTqmDCF38YnVNsy)
+- [API Tutorial 18](https://youtu.be/wVVSjVuzWQs?si=7D-1ACvQ6VT3nPZ8)
+- [API Tutorial 19](https://youtu.be/AYHDii-kUH4?si=kXfqSzIYxarWevjW)
+- [API Tutorial 20](https://youtu.be/9PxUMoP1Dl4?si=vWP9oIC8ps2FMwrG)
 
 ---
 
