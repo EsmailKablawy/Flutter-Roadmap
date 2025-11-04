@@ -1,5 +1,8 @@
-<p align="center" style="background: linear-gradient(90deg, #fdfbfb, #ebedee); padding: 15px; border-radius: 12px; font-size: 18px;">
-  <strong><em>قال رسول الله صلى الله عليه وآله وسلم</em></strong><br>
+<p align="center" style="font-size: 28px; font-weight: bold; background: linear-gradient(90deg, #f9d423, #ff4e50); -webkit-background-clip: text; color: transparent; margin-top: 25px;">
+  <strong><em>قال رسول الله صلى الله عليه وآله وسلم</em></strong>
+</p>
+
+<p align="center" style="font-size: 34px; font-weight: bold; background: linear-gradient(90deg, #43cea2, #185a9d); -webkit-background-clip: text; color: transparent; animation: pulse 2s infinite;">
   <strong><em>“واللهُ في عَونِ العَبْدِ ما كان العَبْدُ في عَونِ أخيهِ”</em></strong>
 </p>
 
