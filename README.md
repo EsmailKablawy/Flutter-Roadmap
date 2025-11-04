@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background: linear-gradient(90deg, #fdfbfb, #ebedee); padding: 15px; border-radius: 10px;">
   <strong><em>“واللهُ في عَونِ العَبْدِ ما كان العَبْدُ في عَونِ أخيهِ”</em></strong>  
 </p>
 
