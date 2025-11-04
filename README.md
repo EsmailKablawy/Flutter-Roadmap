@@ -1,4 +1,8 @@
 <p align="center">
+  <strong><em>“واللهُ في عَونِ العَبْدِ ما كان العَبْدُ في عَونِ أخيهِ”</em></strong>  
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" width="600" alt="Flutter Roadmap Banner">
 </p>
 
