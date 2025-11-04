@@ -1,117 +1,63 @@
-![Flutter Roadmap Banner](https://miro.medium.com/v2/resize:fit:1400/1*okJZfR1OT4Ruq3sL1BPhuw.png)
+# 🚀 Flutter Learning Roadmap
 
-<br>
-
-# 🦋 Flutter Learning Roadmap
-This repository provides a **complete roadmap** to learn **Flutter development from scratch** using **free Arabic tutorials**.  
-It’s made for anyone who wants to become a **Flutter Developer** and start building mobile apps confidently 🚀  
+A complete and free Arabic roadmap to become a Flutter Developer — step by step 💪  
 
 ---
 
-## 🧠 Step 1 — Learn Dart Language
+## 🧱 1. Learn Dart First
+> Dart is the foundation of Flutter — it’s simple, fast, and fun!
 
-Before you start Flutter, learn the basics of **Dart**, the programming language behind it.  
-It’s very simple and similar to other modern languages.
-
-<details>
-<summary>📺 Dart Course by Wael Abou Hamza (Arabic)</summary>
-
-- [🎯 Dart Course (YouTube Playlist)](https://youtube.com/playlist?list=PL93xoMrxRJIutlMCImcV3CYMmjS0MmlWL)
-
-</details>
+🎯 **Start here:**  
+[🎓 Dart Course by Wael Abu Hamza](https://youtube.com/playlist?list=PL93xoMrxRJIutlMCImcV3CYMmjS0MmlWL&si=3FzezhbLvE70bwEb)
 
 ---
 
-## 🧱 Step 2 — Learn Flutter Basics
+## 🎨 2. Learn Flutter Widgets
+> Learn all the basic and advanced widgets to start building real apps.
 
-After Dart, start learning how Flutter works — widgets, layouts, navigation, and building UI components.  
-This course will teach you almost everything you need to start coding real apps.
-
-<details>
-<summary>📺 Flutter Course by Wael Abou Hamza (Arabic)</summary>
-
-- [📘 Flutter Course (YouTube Playlist)](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9)
-
-</details>
-
-After completing this step, you can already build small apps! 🎉  
+📚 **Flutter Course:**  
+[📱 Flutter Course by Wael Abu Hamza](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=U6C4YcBqtMlvCc5k)
 
 ---
 
-## ⚙️ Step 3 — State Management
+## ⚙️ 3. State Management
+> Master how to manage app data and logic — from simple to advanced.
 
-State management controls how data flows inside your app.  
-Start with **Provider**, then move on to **GetX** and **Cubit (Bloc)**.
-
-<details>
-<summary>📗 Provider (Wael Abou Hamza)</summary>
-
-- [Provider Course (YouTube Playlist)](https://youtube.com/playlist?list=PL93xoMrxRJIviJiC76oO5aV8bDp2s3OrA)
-
-</details>
-
-<details>
-<summary>📘 GetX (Wael Abou Hamza)</summary>
-
-- [GetX Course (YouTube Playlist)](https://youtube.com/playlist?list=PL93xoMrxRJIvZHL420f63bWIOrcoM6NU-)
-
-</details>
-
-<details>
-<summary>📙 Cubit (Bloc Pattern)</summary>
-
-- [Cubit Course (YouTube Playlist)](https://youtube.com/playlist?list=PL93xoMrxRJIv4wze2WyaotWpLX7Wk9u7R)
-
-</details>
-
-After finishing these, you’ll be able to manage complex Flutter apps with ease ⚡  
+- [🧩 Provider Course](https://youtube.com/playlist?list=PL93xoMrxRJIviJiC76oO5aV8bDp2s3OrA&si=5YPFC5uWlrFckps_)  
+- [⚡ GetX Course](https://youtube.com/playlist?list=PL93xoMrxRJIvZHL420f63bWIOrcoM6NU-&si=EgExOt-ozXcuiYP7)  
+- [📦 Cubit / Bloc Course](https://youtube.com/playlist?list=PL93xoMrxRJIv4wze2WyaotWpLX7Wk9u7R&si=OB0POCTVrJ4iVFuM)
 
 ---
 
-## 🎨 Step 4 — Practice & Improve Your Skills
+## 🧠 4. UI Improvement Tutorials
+> These tutorials will help you **improve your design and animations**, making your Flutter apps look professional ✨  
 
-Now it’s time to **build projects**, **experiment with UI**, and **add animations**.  
-Practice makes perfect!
-
-<details>
-<summary>📚 Flutter Tutorials (Coming Soon)</summary>
-
-- Stay tuned for more curated tutorials and challenges 🔥  
-
-</details>
+🎥 **Watch these UI tutorials:**  
+- [UI Tutorial 1](https://youtu.be/uSljGJGSl6w?si=wOZQ7IcNpoXQmFWE)  
+- [UI Tutorial 2](https://youtu.be/eegl7of4g-o?si=1tG4h6U3F6rDWl7j)  
+- [UI Tutorial 3](https://youtu.be/zOQzu3BGSqo?si=_evWiI0QcX2mmXkE)  
+- [UI Tutorial 4](https://youtu.be/FMV8pbz0sN8?si=ueDN8Bq2OXbEAcpD)
 
 ---
 
-## 🧰 Recommended Tools
+## 🌍 5. APIs & Real Projects (Advanced)
+> Learn how to connect your Flutter app to real APIs, handle JSON, and build production-level apps.  
+These tutorials are **essential** to take your skills to the next level 🚀  
 
-- [Android Studio](https://developer.android.com/studio)  
-- [Visual Studio Code](https://code.visualstudio.com/)  
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-
----
-
-## 🌟 After Completing This Roadmap
-
-By the end, you’ll be able to:
-- Build complete apps using Flutter  
-- Manage app state with Provider, GetX, or Cubit  
-- Integrate APIs and use maps or sockets  
-- Publish your apps on Android & iOS 🚀  
+🎯 **Recommended Videos:**  
+- [API Tutorial 1](https://youtu.be/rpT7vDbNM3M?si=lWnx6vDoPuXo_HSE)  
+- [API Tutorial 2](https://youtu.be/HQ_ytw58tC4?si=XL4QCnlgHyOhPmT1)
 
 ---
 
-## 💬 Tips from Esmail Osama Ismail
-
-> “رتب الدنيا وهتلاقي الموضوع سهل جدًا.  
-> Dart بسيطة، وFlutter ممتعة، وكل حاجة بعد كده بتبقى ماشية معاك خطوة بخطوة.” 💪  
-
----
-
-## 📱 Contact Me
-
-<a href="https://github.com/esmailelkablawy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/esmailelkablawy" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+## 🏁 After Completing All
+You’ll be able to:
+- Build real Flutter apps from scratch  
+- Work with APIs  
+- Manage complex states easily  
+- Design beautiful and responsive UIs  
 
 ---
 
-⭐ *If you found this roadmap helpful, don’t forget to give it a star on GitHub!* ⭐
+💬 **Created by:** [Esmail Osama Ismail](https://github.com/yourusername)  
+❤️ Flutter Developer | Passionate about Clean UI & Real-time Apps
