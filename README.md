@@ -88,17 +88,15 @@ You’ll be able to:
 - Work with APIs  
 - Manage complex states easily  
 - Design beautiful and responsive UIs  
----
-
-<div align="center">
-
-💬 **من إنشاء:** [إسماعيل أسامة إسماعيل](https://github.com/EsmailKablawy)
-
-</div>
 
 ---
 
-## ▶️ للتواصل 📱
+💬 **Created by:** [Esmail Osama Ismail](https://github.com/yourusername)  
+❤️ Flutter Developer | Passionate about Clean UI & Real-time Apps
+
+---
+
+## **▶️ Contact 📱**
 
 <p align="start">
   <a href="mailto:esmail.o.kablawy@gmail.com">
